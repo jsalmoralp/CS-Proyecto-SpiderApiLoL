@@ -1,0 +1,10 @@
+E:\Zona_de_Trabajo\Proyectos\Spiders\SpiderAPILoL\obj\Debug\SpiderAPILoL.csprojAssemblyReference.cache
+E:\Zona_de_Trabajo\Proyectos\Spiders\SpiderAPILoL\obj\Debug\SpiderAPILoL.csproj.CoreCompileInputs.cache
+E:\Zona_de_Trabajo\Proyectos\Spiders\SpiderAPILoL\bin\Debug\SpiderAPILoL.exe.config
+E:\Zona_de_Trabajo\Proyectos\Spiders\SpiderAPILoL\bin\Debug\SpiderAPILoL.exe
+E:\Zona_de_Trabajo\Proyectos\Spiders\SpiderAPILoL\bin\Debug\SpiderAPILoL.pdb
+E:\Zona_de_Trabajo\Proyectos\Spiders\SpiderAPILoL\bin\Debug\Newtonsoft.Json.dll
+E:\Zona_de_Trabajo\Proyectos\Spiders\SpiderAPILoL\bin\Debug\Newtonsoft.Json.xml
+E:\Zona_de_Trabajo\Proyectos\Spiders\SpiderAPILoL\obj\Debug\SpiderAPILoL.csproj.CopyComplete
+E:\Zona_de_Trabajo\Proyectos\Spiders\SpiderAPILoL\obj\Debug\SpiderAPILoL.exe
+E:\Zona_de_Trabajo\Proyectos\Spiders\SpiderAPILoL\obj\Debug\SpiderAPILoL.pdb

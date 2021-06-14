@@ -1,0 +1,10 @@
+E:\Zona_de_Trabajo\Proyectos\ArañasWeb\SpiderWebLoL\bin\Debug\SpiderWebLoL.exe.config
+E:\Zona_de_Trabajo\Proyectos\ArañasWeb\SpiderWebLoL\bin\Debug\SpiderWebLoL.exe
+E:\Zona_de_Trabajo\Proyectos\ArañasWeb\SpiderWebLoL\bin\Debug\SpiderWebLoL.pdb
+E:\Zona_de_Trabajo\Proyectos\ArañasWeb\SpiderWebLoL\bin\Debug\Newtonsoft.Json.dll
+E:\Zona_de_Trabajo\Proyectos\ArañasWeb\SpiderWebLoL\bin\Debug\Newtonsoft.Json.xml
+E:\Zona_de_Trabajo\Proyectos\ArañasWeb\SpiderWebLoL\obj\Debug\SpiderWebLoL.csprojAssemblyReference.cache
+E:\Zona_de_Trabajo\Proyectos\ArañasWeb\SpiderWebLoL\obj\Debug\SpiderWebLoL.csproj.CoreCompileInputs.cache
+E:\Zona_de_Trabajo\Proyectos\ArañasWeb\SpiderWebLoL\obj\Debug\SpiderWebLoL.csproj.CopyComplete
+E:\Zona_de_Trabajo\Proyectos\ArañasWeb\SpiderWebLoL\obj\Debug\SpiderWebLoL.exe
+E:\Zona_de_Trabajo\Proyectos\ArañasWeb\SpiderWebLoL\obj\Debug\SpiderWebLoL.pdb
